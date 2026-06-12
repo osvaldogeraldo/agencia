@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /d/brilliantmarketing/src/components /d/brilliantmarketing/public)",
+      "Bash(mkdir -p /d/brilliantmarketing/src/assets/images && cp /d/prototipo-transporte/src/assets/images/* /d/brilliantmarketing/src/assets/images/ && ls /d/brilliantmarketing/src/assets/images)"
+    ],
+    "additionalDirectories": [
+      "D:\\brilliantmarketing\\src",
+      "d:\\brilliantmarketing",
+      "D:\\prototipo-transporte\\src\\assets\\images"
+    ]
+  }
+}
